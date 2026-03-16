@@ -16,7 +16,7 @@ This project analyzes Netflix content data to identify trends and user preferenc
 - **Power BI:** Dashboard development & visualization  
 
 ## 4. Data Cleaning Steps
-- Standardized text by converting columns to capitalized format.  
+- Standardised text by converting columns to capitalised format.  
 - Handled missing values in `Director`, `Cast`, and `Country` columns using the "Go - Special" method.  
 - Used **Split Column (by delimiter)** in Power Query to separate multiple values in `Genres` and `Country` columns.  
 - Applied **Unpivot Columns** to transform the data into a normalized row format for better analysis.  
@@ -32,14 +32,20 @@ This project analyzes Netflix content data to identify trends and user preferenc
 
 ## 7. Project Workflow
 1. **Data Import:** Imported Excel dataset from Kaggle.  
-2. **Understanding Business Problem and Keywords:** Analyzed the need for strategic content planning.  
-3. **Define Key Metrics & KPIs:** Total shows, movies vs. TV shows, top genres, top countries, and YoY trends.  
-4. **Data Cleaning & Transformation:** Cleaned data in Excel and Power Query.  
-5. **Data Analysis:** Used pivot tables and charts in Excel to identify patterns and trends.  
-6. **Power BI Import:** Imported cleaned data into Power BI for visualization.  
-7. **DAX Measures:** Created key measures such as Total Shows, Total Movies, Total TV Shows, YoY growth, and Top Countries.  
-8. **Dashboard Development:** Built interactive dashboards with charts, tables, slicers, and KPIs and more.  
-9. **Insights & Recommendations:** Derived actionable insights to support business decisions.  
+2. **Understanding Business Problem and Keywords:** Analyzed the need for strategic content planning.
+**Keywords -**
+1 - Netflix content library
+2- dominate Genres 
+3- dominate content type 
+4- about the release year
+   
+4. **Define Key Metrics & KPIs:** Total shows, movies vs. TV shows, top genres, top countries, and YoY trends.  
+5. **Data Cleaning & Transformation:** Cleaned data in Excel and Power Query.  
+6. **Data Analysis:** Used pivot tables and charts in Excel to identify patterns and trends.  
+7. **Power BI Import:** Imported cleaned data into Power BI for visualization.  
+8. **DAX Measures:** Created key measures such as Total Shows, Total Movies, Total TV Shows, YoY growth, and Top Countries.  
+9. **Dashboard Development:** Built interactive dashboards with charts, tables, slicers, and KPIs and more.  
+10. **Insights & Recommendations:** Derived actionable insights to support business decisions.  
 
 ## 8. Key Insights
 
