@@ -1,8 +1,8 @@
 # Netflix Content & Genres Analysis
 
-![Dashboard](Netflix Content Type overview.png)
+![Dashboard](Netflix_Content_Type_overview.png)
 
-![Dashboard](Netflix Gener overview.png)
+![Dashboard](Netflix_Geners_overview.png)
 
 ## 1. Project Overview
 This project analyzes Netflix content data to identify trends and user preferences in content type and genres based on release patterns. The goal is to support strategic content planning and decision-making.
@@ -67,6 +67,7 @@ This project analyzes Netflix content data to identify trends and user preferenc
 **6. Ratings Distribution**  
 - Most content is targeted toward general and teen audiences (TV-MA, TV-14).  
 - Focuses on broad appeal while maintaining family and teen-friendly content.
+
 
 ## 9. Business Recommendations
 
