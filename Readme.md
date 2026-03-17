@@ -10,7 +10,7 @@ This project analyzes Netflix content data to identify trends and user preferenc
 - Total shows per content type  
 - Content vs release year trend (last 10 years)  
 - Content vs average duration  
-- Content vs average rating  
+- Content vs rating  
 - Top producing countries vs content  
 - Year-over-Year (YoY) growth trend (last 10 years)  
 - Total shows per genre  
