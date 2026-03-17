@@ -31,7 +31,7 @@ This project analyzes Netflix content data to identify trends and user preferenc
 - **Power BI:** Dashboard development & visualization  
 
 ## 5. Data Cleaning Steps
-- Standardised text by capitalising columns.  
+- Convert all the text in the capitalise column.  
 - Handled missing values in `Director`, `Cast`, and `Country` columns using the "Go - Special" method.  
 - Split multiple values in `Genres` and `Country` columns using **Split Column by Delimiter** in Power Query.  
 - Applied **Unpivot Columns** for a normalized row format.  
