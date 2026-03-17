@@ -19,7 +19,7 @@ This project analyzes Netflix content data to identify trends and user preferenc
 - Genre distribution  
 - Average rating vs genres  
 - Content vs duration
-- Yot Trend for Genres in last 10 year  
+- Yoy Trend for Genres in last 10 year  
 
 ## 3. Dataset
 - **Source:** Kaggle  
