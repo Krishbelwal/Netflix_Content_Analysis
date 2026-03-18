@@ -68,7 +68,7 @@ This project analyzes Netflix content data to identify trends and user preferenc
 - Opportunity for growth in emerging markets like India.  
 
 **3. Popular Genres**  
-- Top genres: International Movies, Dramas, Comedies, Action & Adventure  
+- Top genres: International Movies, Dramas  
 - International Movies and Dramas have the highest number of shows and average duration.  
 
 **4. Content Trends**  
