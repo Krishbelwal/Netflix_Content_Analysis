@@ -69,7 +69,7 @@ This project analyzes Netflix content data to identify trends and user preferenc
 
 **3. Popular Genres**  
 - Top genres: International Movies, Dramas  
-- International Movies and Dramas have the highest number of shows and average duration.  
+- International Movies and Dramas have the highest number of shows.  
 
 **4. Content Trends**  
 - YoY growth peaked around 2017–2018, but declined by -45% in 2021.  
