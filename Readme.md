@@ -77,7 +77,3 @@ This project analyzes Netflix content data to identify trends and user preferenc
 **5. Ratings Distribution**  
 - Most content is targeted toward **general and teen audiences (TV-MA, TV-14)**.  
 - Since International Movies are most popular among these ratings, Netflix can **focus on producing content in this genre to attract and retain teen viewers**.  
-
-**6. Average Duration**  
-- Movies have an average duration of **~103 minutes**, longer than TV shows.  
-- This allows for binge-watching, while TV shows suit episodic viewing. Netflix can **optimise content formats based on this trend**.     
