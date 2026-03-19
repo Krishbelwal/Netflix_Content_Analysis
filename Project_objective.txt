@@ -1,1 +1,1 @@
-Netflix wants to Analyze Netflix content Trends and indetify dominate Genres , content types about relase year to support stragtegic content planning.
+Netflix wants to analyse Netflix content, Genres to identify patterns, trends, and user preferences about release year to support more strategic content planning.
